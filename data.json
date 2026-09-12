@@ -100,23 +100,23 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/python_version.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_tokens_datatypes.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_type_id_equality_identity.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_packing_unpacking.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_short_circuit_operators.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_basic_structure.py",
@@ -124,11 +124,11 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/python_print_input.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_variables.py",
-        "hidden": true
+        "hidden": false
       }
     ],
     "UNIT-2": [
