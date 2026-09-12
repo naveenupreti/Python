@@ -113,6 +113,10 @@
       {
         "path": "Notes_Programs/UNIT-1/python_packing_unpacking.py",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_short_circuit_operators.py",
+        "hidden": true
       }
     ],
     "UNIT-2": [
