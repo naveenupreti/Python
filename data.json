@@ -93,6 +93,26 @@
       {
         "path": "Notes_Programs/UNIT-1/multiplication_table.py",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/print_input.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_version.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_tokens_datatypes.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_type_id_equality_identity.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_packing_unpacking.py",
+        "hidden": true
       }
     ],
     "UNIT-2": [
