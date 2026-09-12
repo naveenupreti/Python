@@ -121,6 +121,10 @@
       {
         "path": "Notes_Programs/UNIT-1/python_basic_structure.py",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_print_input.py",
+        "hidden": true
       }
     ],
     "UNIT-2": [
