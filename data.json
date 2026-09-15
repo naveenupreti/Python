@@ -39,9 +39,10 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/BasicStructure.py"
+        "hidden": true
       },
       {
-        "path": "Notes_Programs/UNIT-1/control_statements.py"
+        "path": "Notes_Programs/UNIT-1/python_control_statements.py"
       },
       {
         "path": "Notes_Programs/UNIT-1/datatypes_python.py"
@@ -120,7 +121,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/python_basic_structure.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/python_print_input.py",
