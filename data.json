@@ -60,7 +60,8 @@
         "path": "Notes_Programs/UNIT-1/print_formatting.py"
       },
       {
-        "path": "Notes_Programs/UNIT-1/short_circuit_operators.py"
+        "path": "Notes_Programs/UNIT-1/short_circuit_operators.py",
+         "hidden": true
       },
       {
         "path": "Notes_Programs/UNIT-1/use_of_main.py"
@@ -87,7 +88,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/int_bin_oct_hex.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-1/multiplication_table.py",
