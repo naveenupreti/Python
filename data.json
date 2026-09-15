@@ -66,7 +66,8 @@
         "path": "Notes_Programs/UNIT-1/use_of_main.py"
       },
       {
-        "path": "Notes_Programs/UNIT-1/variables.py"
+        "path": "Notes_Programs/UNIT-1/variables.py", 
+         "hidden": true
       },
       {
         "path": "Notes_Programs/UNIT-1/test.py",
