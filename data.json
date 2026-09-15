@@ -42,9 +42,6 @@
         "hidden": true
       },
       {
-        "path": "Notes_Programs/UNIT-1/python_control_statements.py"
-      },
-      {
         "path": "Notes_Programs/UNIT-1/datatypes_python.py"
       },
       {
@@ -133,7 +130,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/python_control_statements.py",
-        "hidden": true
+        "hidden": false
       }
     ],
     "UNIT-2": [
