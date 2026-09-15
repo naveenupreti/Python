@@ -129,6 +129,10 @@
       {
         "path": "Notes_Programs/UNIT-1/python_variables.py",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_control_statements.py",
+        "hidden": true
       }
     ],
     "UNIT-2": [
