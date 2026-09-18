@@ -38,6 +38,7 @@ Precedence	Operator(s)			Description																	Associativity
 16	lambda				Lambda expression																Left → Right
 17	=, +=, -=, *=, /=, //=, %=, **=, &=, |=, ^=, >>=, <<=	Assignment operators						Right → Left
 18	,					Comma (tuple, argument separator, multiple assignments)							Left → Right
+# comma(,) is not a operator in python. It is a used as a separator.
 
 **Example 1: Mixed + and ***
 result = 3 + 4 * 2
@@ -221,4 +222,18 @@ cond_result = 20
 
 Step 5: Output
 print(cond_result)  # 20
+
+# In Python, Comma is the tuple-making operator/separator in expressions, while parentheses merely group the expression.
+x = 1, 2, 3       # tuple
+x = (1, 2, 3)     # tuple
+x = (1)            # integer
+x = (1,)           # tuple
+
+x = 1 + 2, 3 * 4
+print(x)
+#Output: (3, 12)
+
+x = 10, 20 + 30, 40 * 2
+print(x)
+#Output: (10, 50, 80)
 '''
