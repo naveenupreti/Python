@@ -61,14 +61,14 @@
       },
       {
         "path": "Notes_Programs/UNIT-1/short_circuit_operators.py",
-         "hidden": true
+        "hidden": true
       },
       {
         "path": "Notes_Programs/UNIT-1/use_of_main.py"
       },
       {
-        "path": "Notes_Programs/UNIT-1/variables.py", 
-         "hidden": true
+        "path": "Notes_Programs/UNIT-1/variables.py",
+        "hidden": true
       },
       {
         "path": "Notes_Programs/UNIT-1/test.py",
@@ -133,6 +133,10 @@
       {
         "path": "Notes_Programs/UNIT-1/python_control_statements.py",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/python_precedence_associativity.py",
+        "hidden": true
       }
     ],
     "UNIT-2": [
