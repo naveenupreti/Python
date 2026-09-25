@@ -153,9 +153,6 @@
         "path": "Notes_Programs/UNIT-2/LUP_Chapter9_Tuples.pdf"
       },
       {
-        "path": "Notes_Programs/UNIT-2/String_python.py"
-      },
-      {
         "path": "Notes_Programs/UNIT-2/string_alignment.py"
       },
       {
@@ -182,12 +179,8 @@
         "hidden": true
       },
       {
-        "path": "Notes_Programs/UNIT-2/paragraph_input.py",
-        "hidden": true
-      },
-      {
         "path": "Notes_Programs/UNIT-2/print_alphabets_digits.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/tuple_duplicates.py",
@@ -195,11 +188,11 @@
       },
       {
         "path": "Notes_Programs/UNIT-2/python_paragraph_input.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/python_strings.py",
-        "hidden": true
+        "hidden": false
       }
     ],
     "UNIT-3": [
