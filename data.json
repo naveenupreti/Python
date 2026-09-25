@@ -164,7 +164,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-2/strings_immutable.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/print_name_initials.py",
