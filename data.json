@@ -193,6 +193,14 @@
       {
         "path": "Notes_Programs/UNIT-2/python_strings.py",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-2/python_list_reversing.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-2/python_lists.py",
+        "hidden": true
       }
     ],
     "UNIT-3": [
