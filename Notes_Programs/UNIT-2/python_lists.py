@@ -4,11 +4,6 @@
 #
 # This program demonstrates the major concepts of Python Lists.
 #
-# IMPORTANT:
-# All explanations are given inside the program itself as comments.
-# Expected outputs are also written as comments immediately below
-# the corresponding statements.
-#
 # Topics Covered:
 # 1. Introduction to Lists
 # 2. Creating Lists
