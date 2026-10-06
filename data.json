@@ -200,7 +200,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-2/python_lists.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/python_shallow_deep_copy.py",
