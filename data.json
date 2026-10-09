@@ -209,6 +209,10 @@
       {
         "path": "Notes_Programs/UNIT-2/python_tuples.py",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-2/tuple_operations.py",
+        "hidden": true
       }
     ],
     "UNIT-3": [
