@@ -184,7 +184,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-2/tuple_duplicates.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/python_paragraph_input.py",
@@ -196,7 +196,7 @@
       },
       {
         "path": "Notes_Programs/UNIT-2/python_list_reversing.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-2/python_lists.py",
