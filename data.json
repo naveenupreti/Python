@@ -205,6 +205,10 @@
       {
         "path": "Notes_Programs/UNIT-2/python_shallow_deep_copy.py",
         "hidden": false
+      },
+      {
+        "path": "Notes_Programs/UNIT-2/python_tuples.py",
+        "hidden": true
       }
     ],
     "UNIT-3": [
