@@ -39,13 +39,6 @@ IMPORTANT TRICKY CONCEPTS ALSO COVERED
 * Missing-key problem
 * Mutable values
 
-HOW TO STUDY THIS FILE
-----------------------
-Run the complete file from top to bottom. Each section prints a heading,
-then demonstrates a concept. The expected output and explanation are placed
-immediately after the relevant code block. Some dictionary displays may
-vary in formatting slightly, but the values and ordering shown are correct
-for modern Python (3.7+).
 """
 
 # ===============================================================
