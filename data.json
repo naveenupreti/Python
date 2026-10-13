@@ -316,19 +316,19 @@
       },
       {
         "path": "Notes_Programs/UNIT-3/python_lists_copy_shallow_deepcopy.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-3/python_dictionaries.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-3/python_tuples_copy_shallow_deepcopy.py",
-        "hidden": true
+        "hidden": false
       },
       {
         "path": "Notes_Programs/UNIT-3/python_dictionaries_copy_shallow_deepcopy.py",
-        "hidden": true
+        "hidden": false
       }
     ],
     "UNIT-4": [
