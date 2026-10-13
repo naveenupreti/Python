@@ -313,6 +313,22 @@
       {
         "path": "Notes_Programs/UNIT-3/sort_sorted_reverse_reversed.py",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-3/python_lists_copy_shallow_deepcopy.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-3/python_dictionaries.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-3/python_tuples_copy_shallow_deepcopy.py",
+        "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-3/python_dictionaries_copy_shallow_deepcopy.py",
+        "hidden": true
       }
     ],
     "UNIT-4": [
