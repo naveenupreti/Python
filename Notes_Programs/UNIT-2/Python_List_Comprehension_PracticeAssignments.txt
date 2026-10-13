@@ -1,0 +1,40 @@
+# List Comprehension: Practice Assignments
+
+1. Write a Python program to create a list of squares of numbers from 1 to 10 using list comprehension.
+
+2. Write a Python program to generate a list of even numbers from 1 to 50.
+
+3. Write a Python program to generate a list of odd numbers from 1 to 50.
+
+4. Write a Python program to create a list of numbers divisible by 5 from 1 to 100.
+
+5. Write a Python program to convert all the elements of a list into their squares.  
+   Example: `[1, 2, 3, 4, 5]` → `[1, 4, 9, 16, 25]`
+
+6. Write a Python program to convert all strings in a list to uppercase.  
+   Example: `["python", "java", "c"]` → `["PYTHON", "JAVA", "C"]`
+
+7. Write a Python program to extract the first character of every string in a list.  
+   Example: `["Apple", "Banana", "Cherry"]` → `["A", "B", "C"]`
+
+8. Write a Python program to extract all positive numbers from a list.
+
+9. Write a Python program to extract all negative numbers from a list.
+
+10. Write a Python program to extract all numbers greater than 10 from a list.
+
+11. Write a Python program to create a list containing the lengths of all strings in another list.  
+    Example: `["apple", "cat", "banana"]` → `[5, 3, 6]`
+
+12. Write a Python program to replace every negative number in a list with zero.
+
+13. Write a Python program to create a list containing the squares of only even numbers from a given list.  
+    Example: `[1, 2, 3, 4, 5, 6]` → `[4, 16, 36]`
+
+14. Write a Python program to extract all vowels from a given string.  
+    Example: `"education"` → `["e", "u", "a", "i", "o"]`
+
+15. Write a Python program to remove all empty strings from a list.  
+    Example: `["Python", "", "Java", "", "C"]` → `["Python", "Java", "C"]`
+
+16. Write a Python program to find common elements between two lists using list comprehension.
